@@ -1,0 +1,118 @@
+<html>
+    <head>
+        <style>
+            body {font-family:arial;font-size:8pt;line-height:10pt}
+            @media print {
+                  .noprint { display: none; }
+                }
+            .branch{font-size:7pt;text-align: center;}
+            .underl{text-decoration: underline;font-family:arial;font-size:10pt}
+            tr{height:18px!important;}
+            td{font-family:calibri!important;font-size:14px!important;height:2pt!important;}
+            th{font-family:calibri!important;font-size:14px!important;}
+            .content{text-align:center;border-bottom:#000 solid 1px;width:100%!important;font-size:11pt;}
+            .ucontent{text-align:center;border-bottom:#000 solid 1px;width:100%!important;font-weight:800;font-size:10pt;}
+            .ulabel{color:blue;}
+        </style>
+        <script>               
+                window.onload = function(){
+                    //window.print();
+                };                
+        </script>
+    </head>
+    <body>        
+            <input class='noprint' type='button' value='Print' onclick='window.print()' />
+            <div style="width:790px;">
+                <div align="center">                            
+                    <table style="width:790px">
+                        <tr>
+                            <td>
+                                <div class="branch">[bacoor_address_html]</div>
+                            </td>
+                            <td style="text-align:center;" valign=top >
+                                <img src="[logopath]" style="height:50px;"/>
+                                <div>Medical Clinic and Diagnostic Center, Inc.</div>
+                            </td>
+                        
+                            <td>
+                                <div class="branch">[dasma_address_html]</div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>                        
+
+                <hr/>
+                <div>
+                    <table>
+                        <tr>
+                            <td width='10'>Name:</td>
+                            <td width='400'><div class='content'><b>[name]&nbsp;</b></div></td>
+                            <td width='5'></td>
+                            <td width='40' align='right'>Age:</td>
+                            <td width='100'><div class='content'>[age]&nbsp;</div></td>
+                            <td width='10'></td>
+                            <td width='40' align='right'>Sex:</td>
+                            <td width='100'><div class='content'>[sex]&nbsp;</div></td>
+                            <td width='10'></td>
+                            <td width='80' align='right'>Result No:</td>
+                            <td width='90'><div class='content'>[result_no]&nbsp;</div></td>
+                        </tr>
+                    </table>
+                    <table width="100%" style="margin:15px 0px 0px 0px;">
+                        <tr>
+                            <td style="color:red;text-align:center;width:100%;font-size:18pt!important;font-family:arial;font-weight:800;height:0pt!important;">RAPID ANTIGEN TEST (SWAB)</td>
+                        </tr>
+                    </table>
+                    <table width="100%">
+                        <tr>
+                            <td>
+                                <table>
+                                    <tr><td>Patient Birthdate: </td><td>[birthdate]</td></tr>
+                                    <tr><td>Patient ID: </td><td>[patient_id]</td></tr>
+                                    <tr><td>Physician: </td><td>[requesting_physician]</td></tr>
+                                </table>
+                            </td>
+                            <td align="right">
+                                <table>
+                                    <tr><td>Date Ordered: </td><td>[date_ordered]</td></tr>
+                                    <tr><td>Date Received: </td><td>[date_received]</td></tr>
+                                    <tr><td>Time Released: </td><td>[date_released]</td></tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <br>
+                    <table width="100%">
+                        <tr>
+                            <td width='' valign="top">
+                                <table class="tblres" style="border-width: 0px;border-spacing: 0px;border-style: outset;border-color: gray; width: 100%;" border="1px" cellpadding="1" cellspacing="1" >
+                                    <tr>
+                                        <th style="border-top:1px solid #000;border-left:1px solid #000;border-bottom:1px solid #000;">Test Name</th>
+                                        <th style="border-top:1px solid #000;border-left:1px solid #000;border-bottom:1px solid #000;">Result</th>
+                                    </tr>
+                                    <tr>
+                                        <td width="37%" style="border:none"></td>
+                                        <td style="border:none"></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="border:none;padding:3px;">COVID-19 RAPID ANTIGEN (SWAB) TEST</td>
+                                        <td style="border:none;padding:3px;font-weight:bold;font-size:18px!important;" align="center">[rapid_antigen_test]</td>
+                                    </tr>
+                                    <tr><td colspan="2" style="border:none"><hr></td></tr>
+                                    <tr><td colspan="2" style="border:none;padding:5px;font-style:bold;">The result of this test is not intended for use in the diagnosis of COVID-19. Correlation with RT-PCR result and clinical data is needed for a reliable diagnosis. Interpretation of this test should be carried out by healthcare professional.</td></tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <table width="100%" style="margin:5px 0px 0px 0px;">
+                        <tr><td>&nbsp;</td></tr>
+                    	<tr>
+                        	<td width='50%' valign="top">
+                            	<div style='font-size:15px;font-weight:800;margin-top:5px;'>[medtech]</div>Medical Technologist - License No. [licenseno]
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+    </body>
+</html>

@@ -1,0 +1,167 @@
+<html>
+    <head>
+        <style>
+            body {font-family:arial;font-size:8pt;line-height:10pt}
+            @media print {
+                  .noprint { display: none; }
+                }
+            .branch{font-size:7pt;text-align: center;}
+            .underl{text-decoration: underline;font-family:arial;font-size:10pt}
+            tr{height:30px!important;}
+            td{font-family:calibri!important;font-size:14px!important;height:2pt!important;}
+            th{font-family:calibri!important;font-size:14px!important;}
+            .content{text-align:center;border-bottom:#000 solid 1px;width:100%!important;font-size:11pt;}
+            .ucontent{text-align:center;border-bottom:#000 solid 1px;width:100%!important;font-weight:800;font-size:10pt;}
+            .ulabel{color:blue;}
+            .table_no_border td { vertical-align:top; }
+            .tbl_interpretation td { border-top:1px solid black; line-height:20px; vertical-align:top; padding:10px 0 10px 0  }
+        </style>
+        <script>               
+                window.onload = function(){
+                    //window.print();
+                };                
+        </script>
+    </head>
+    <body>        
+            <input class='noprint' type='button' value='Print' onclick='window.print()' />
+            <div style="width:790px;">     
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td style="text-align:center;padding:0 20%">
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td width="50%" style="text-align: center;"><img src="[logopath]" style="height:65px;"/></td>
+                                    <td width="50%" style="text-align: center; font-size: 10px!important;"><b>SM CITY BACOOR BRANCH</b><br>31-32 LGF SM BACOOR<br>TIRONA COR. AGUINALDO HIWAY, CITY OF BACOOR<br>CAVITE. TEL. NO (046) 970-1850/ FAX NO (046) 970-1851<br>Email Address: laboratory.wellpoint@yahoo.com</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>                  
+                <br/>                  
+                <br/>
+                <br/>
+                <br/>
+                <div>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0"  class="table_no_border">
+                        <tr>
+                            <td width="50%">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0"  class="table_no_border">
+                                    <tr>
+                                        <td width="35%">Requested Date:</td><td width="65%"><b>[date_requested]</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Name:</td><td><b>[name]</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Patient Number:</td><td><b>[patient_id]</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Referred By:</td><td><b>[referred_by]</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sample Type:</td><td><b>[sample_type]</b></td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="50%">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0"  class="table_no_border">
+                                    <tr>
+                                        <td width="35%">Sample Collection:</td><td width="65%"><b>[date_sample_collection]</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Age/Sex:</td><td><b>[age]/[sex]</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Address:</td><td><b>[patient_address]</b></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <br/>
+                    <hr style="border-top:1px solid black;"/>
+                    <br/>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td style="color:red;text-align:center;width:100%;font-size:18pt!important;font-family:arial;font-weight:800;height:0pt!important;">HIV 1 & 2 Antibodies</td>
+                        </tr>
+                    </table>
+                    <br/>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td style="text-align:center;padding:0 10%">
+                                <table width="100%" border="1" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td width="50%" style="text-align:center;vertical-align:center!important;">Method Used</td>
+                                        <td width="50%" style="text-align:center;">Result</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="text-align:center;vertical-align:center!important;padding:15px 0;"><b style="font-size:18px;">[method_used]</b></td>
+                                        <td style="text-align:center;"><b style="font-size:18px;">[result]</b></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr><td>Interpretation:</td></tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tbl_interpretation">
+                        <tr>
+                            <td>Nonreactive</td><td>Specimen is Nonreactive for antibodies.</td>
+                        </tr>
+                        <tr>
+                            <td>Reactive</td><td>Specimen is Reactive for HIV Antibodies.<br>* Confirmatory of HIV status at accredited. referral laboratory.</td>
+                        </tr>
+                        <tr><td></td><td></td></tr>
+                    <table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0"  class="table_no_border">
+                        <tr>
+                            <td width="50%">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0"  class="table_no_border">
+                                    <tr>
+                                        <td width="35%">Date Received:</td><td width="65%"><b>[date_received]</b></td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="50%">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table_no_border">
+                                    <tr>
+                                        <td width="35%">Date Released:</td><td width="65%"><b>[date_released]</b></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table_no_border">
+                        <tr>
+                            <td style="width:139px">Remarks:</td><td><b>[remarks]</b></td>
+                        </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <br>
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="50%">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td><b>[medtech]</b><br>Medical Technologist-Lic No: <strong>[licenseno]</strong></td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td width="50%">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td><b>JOCELYN MYRA CAJA, M.D., F.P.S.P.</b><br>Pathologist-Lic No: <strong>007684</strong></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+    </body>
+</html>
