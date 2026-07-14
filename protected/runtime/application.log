@@ -12718,3 +12718,1181 @@ Stack trace:
 REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
 HTTP_REFERER=http://wellpointemr/pds/admin
 ---
+2026/07/14 10:57:03 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:57:05 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:57:09 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:57:14 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:57:41 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:57:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 10:57:45 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:57:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 10:58:58 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 10:59:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:00:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:00:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:00:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:01:31 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:01:32 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:01:36 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:01:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:01:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:02:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:02:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:16 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:03:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://wellpointemr/patient/365947
+---
+2026/07/14 11:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:03:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:04:20 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:04:20 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:04:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:04:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:04:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:04:50 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:04:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:05:15 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:05:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/dailysheetform/admin
+---
+2026/07/14 11:05:23 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:05:35 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:05:36 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:05:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:05:42 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:05:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:06:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:06:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:06:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://wellpointemr/user/login
+---
+2026/07/14 11:06:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:06:59 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:07:04 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:09:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:09:44 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:09:51 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:09:55 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:09:56 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:14 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:20 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:31 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:35 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:39 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:42 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:10:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:11:16 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:11:16 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:11:20 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:11:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:11:58 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:12:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:12:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:12:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:12:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:12:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:12:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://wellpointemr/
+---
+2026/07/14 11:13:20 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:13:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:13:36 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:13:36 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:13:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:13:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:13:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:13:47 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:13:57 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:13:58 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:14:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:14:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:14:59 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:15:51 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:15:59 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:06 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:10 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:13 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:13 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:19 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:23 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:16:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:17:15 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:17:18 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:17:21 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:17:36 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:18:25 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:18:26 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:18:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:18:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:18:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:18:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:18:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:18:56 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:19:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:16 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:19:20 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:19:24 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:19:28 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:19:32 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:19:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:19:52 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:14 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:18 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:18 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:19 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:23 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:26 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:20:43 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:20:52 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:21:50 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:22:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:22:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:22:18 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:22:24 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:22:28 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:22:29 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:22:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:22:52 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:22:58 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:23:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:23:59 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (71)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:24:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:24:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:25:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:25:34 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:25:44 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:25:54 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:25:55 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:25:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:26:01 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:26:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:27:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:28:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:29:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:29:08 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:29:30 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:29:37 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:29:42 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:29:48 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:30:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://wellpointemr/hmoForm/create
+---
+2026/07/14 11:30:30 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:30:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:30:41 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:30:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:31:18 [warning] [application] Failed to set unsafe attribute "image" of "Patient".
+in /var/www/html/protected/controllers/PatientController.php (166)
+in /var/www/html/protected/modules/rights/components/RController.php (36)
+in /var/www/html/index.php (13)
+2026/07/14 11:31:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/256033e1/jui/js/jquery.ui.datepicker-ja.js".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('assets/256033e1...')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/256033e1/jui/js/jquery.ui.datepicker-ja.js
+HTTP_REFERER=http://wellpointemr/pds/admin
+---
+2026/07/14 11:31:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/html/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/html/framework/web/CWebApplication.php(135): CWebApplication->runController('favicon.ico')
+#1 /var/www/html/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://wellpointemr/hmoarChecks/Applysoaselect/65838?billid=10576&pid=386779
+---
